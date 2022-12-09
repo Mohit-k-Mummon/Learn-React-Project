@@ -52,7 +52,7 @@ const ExpenseForm = props => {
 					/>
 				</div>
 				<div className='new-expense__control'>
-					<label>Title</label>
+					<label>Date</label>
 					<input
 						type='date'
 						min='2019-01-01'
